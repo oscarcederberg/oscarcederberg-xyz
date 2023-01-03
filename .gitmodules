@@ -1,3 +1,6 @@
 [submodule "themes/huey"]
 	path = themes/huey
 	url = https://github.com/alloydwhitlock/huey/
+[submodule "themes/paige"]
+	path = themes/paige
+	url = https://github.com/willfaught/paige
