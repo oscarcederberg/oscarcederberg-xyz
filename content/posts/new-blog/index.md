@@ -13,3 +13,5 @@ for the last couple of years i've managed them pretty well honestly! for 2021 i 
 {{< figure src="image_1.jpg" alt="Image of Yung Lean eating" title="Yung Lean eating good" width=300 >}}
 
 this year is gonna be more involved, instead of consuming i hope to develop some things. the last few years have not been Very Good when it came to making games in my free time. i'm gonna try to focus more on creating some small things and upload them onto newgrounds. this blog is the first step, by posting progress on here it might help me get into actually working on stuff..
+
+**we'll mf see for sure**
