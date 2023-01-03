@@ -2,3 +2,6 @@ baseURL = 'http://oscar.cederberg.xyz/'
 languageCode = 'en-us'
 title = 'oscarcederberg'
 theme= 'huey'
+
+[params]
+    subtitle = 'knös fnös in darkness'
