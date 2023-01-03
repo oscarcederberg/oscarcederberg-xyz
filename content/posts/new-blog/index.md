@@ -1,7 +1,7 @@
 ---
 title: "new blog"
 date: 2023-01-03T17:52:41+01:00
-draft: true
+draft: false
 type: blog
 description: "new new new enw new"
 ---
