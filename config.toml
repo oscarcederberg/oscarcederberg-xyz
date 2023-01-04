@@ -2,6 +2,7 @@ baseURL = 'http://oscar.cederberg.xyz/'
 languageCode = 'en-us'
 title = 'oscarcederberg'
 theme= 'paige'
+copyright= 'Oscar Cederberg'
 
 [[languages.en.menu.main]]
 identifier = "home"
