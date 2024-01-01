@@ -1,0 +1,12 @@
+#!/bin/sh
+USER=root
+HOST=cederberg.xyz
+DIR=/var/www/oscarcederberg-xyz
+
+hugo && \
+rsync -avz --delete public/ ${USER}@${HOST}:${DIR} && \
+ssh ${USER}@${HOST} "sudo chown -R root:root ${DIR} && \
+  find -type d -exec sudo chmod 744 {} \; && \
+  find -type f -exec sudo chmod 644 {} \;"
+
+exit 0
